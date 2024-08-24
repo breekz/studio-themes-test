@@ -1,0 +1,16 @@
+{
+  "button": {
+    "primary": {
+      "default": {
+        "value": "{Purple.500}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "{Purple.50}",
+        "type": "color"
+      }
+    }
+  }
+}

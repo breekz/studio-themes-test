@@ -1,6 +1,8 @@
 {
   "tokenSetOrder": [
     "Primitives",
-    "Light"
+    "Light",
+    "Dark",
+    "Meta"
   ]
 }
