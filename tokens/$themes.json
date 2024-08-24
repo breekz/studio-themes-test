@@ -4,10 +4,8 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Primitives": "source",
       "Light": "enabled",
-      "Dark": "disabled",
-      "Meta": "disabled"
+      "Core": "source"
     }
   },
   {
@@ -15,9 +13,8 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Primitives": "source",
       "Dark": "enabled",
-      "Meta": "disabled"
+      "Core": "source"
     }
   },
   {
@@ -25,8 +22,8 @@
     "name": "meta",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Primitives": "source",
-      "Meta": "enabled"
+      "Meta": "enabled",
+      "Core": "source"
     }
   }
 ]
