@@ -1,0 +1,40 @@
+{
+  "button": {
+    "primary": {
+      "default": {
+        "value": "{Blue.500}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{Blue.400}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{Blue.600}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "#",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "#",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#",
+        "type": "color"
+      }
+    }
+  }
+}
