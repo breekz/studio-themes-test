@@ -5,10 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Theme/Light": "enabled",
-      "Theme/Dark": "disabled",
-      "Brand/Meta": "disabled",
-      "Brand/Incode": "disabled"
+      "Theme/Light": "enabled"
     },
     "group": "Theme"
   },
@@ -18,10 +15,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Theme/Light": "disabled",
-      "Theme/Dark": "enabled",
-      "Brand/Meta": "disabled",
-      "Brand/Incode": "disabled"
+      "Theme/Dark": "enabled"
     },
     "group": "Theme"
   },
@@ -31,7 +25,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Brand/Meta": "disabled",
       "Brand/Incode": "enabled"
     },
     "group": "Brand"
