@@ -144,7 +144,7 @@
   "Size": {
     "12": {
       "value": {
-        "fontSize": "12"
+        "fontSize": "12px"
       },
       "type": "typography"
     },
