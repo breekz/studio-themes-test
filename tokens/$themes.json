@@ -4,8 +4,11 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Light": "enabled",
-      "Core": "source"
+      "Core": "source",
+      "Theme/Light": "enabled",
+      "Theme/Dark": "disabled",
+      "Brand/Meta": "disabled",
+      "Brand/Incode": "disabled"
     },
     "group": "Theme"
   },
@@ -14,29 +17,45 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Dark": "enabled",
-      "Core": "source"
+      "Core": "source",
+      "Theme/Light": "disabled",
+      "Theme/Dark": "enabled",
+      "Brand/Meta": "disabled",
+      "Brand/Incode": "disabled"
     },
     "group": "Theme"
+  },
+  {
+    "id": "bb826e09a66213b65543f98be6358a181ee5f292",
+    "name": "Incode",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core": "source",
+      "Brand/Meta": "disabled",
+      "Brand/Incode": "enabled"
+    },
+    "group": "Brand"
   },
   {
     "id": "7ba3258a343c97d70d1a0f35f394abad7fd6f42e",
     "name": "meta",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Meta": "enabled",
-      "Core": "source"
+      "Core": "source",
+      "Theme/Light": "enabled",
+      "Brand/Meta": "enabled"
     },
     "group": "Brand"
   },
   {
     "id": "858cc0053aa6e412a441c368c2afa6294a9ca9d9",
-    "name": "Mobile",
+    "name": "Mobile Omni",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Light": "enabled",
-      "Dark": "enabled"
+      "Theme/Light": "enabled",
+      "Theme/Dark": "enabled",
+      "Brand/Incode": "enabled"
     },
     "group": "Platform"
   }

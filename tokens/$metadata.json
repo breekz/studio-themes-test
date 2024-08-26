@@ -1,9 +1,9 @@
 {
   "tokenSetOrder": [
     "Core",
-    "Light",
-    "Dark",
-    "Meta",
-    "core/default"
+    "Theme/Light",
+    "Theme/Dark",
+    "Brand/Meta",
+    "Brand/Incode"
   ]
 }
