@@ -39,6 +39,28 @@
         "value": "{Red.500}",
         "type": "color"
       }
+    },
+    "link": {
+      "default": {
+        "value": "{Blue.50}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{Blue.600}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{Blue.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{Gray.500}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{Red.500}",
+        "type": "color"
+      }
     }
   }
 }
