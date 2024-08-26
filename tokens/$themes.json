@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "Light": "enabled",
       "Core": "source"
-    }
+    },
+    "group": "Theme"
   },
   {
     "id": "7d0e02f89222b25a43343d2032e559604eb3d359",
@@ -15,7 +16,8 @@
     "selectedTokenSets": {
       "Dark": "enabled",
       "Core": "source"
-    }
+    },
+    "group": "Theme"
   },
   {
     "id": "7ba3258a343c97d70d1a0f35f394abad7fd6f42e",
@@ -24,6 +26,18 @@
     "selectedTokenSets": {
       "Meta": "enabled",
       "Core": "source"
-    }
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "858cc0053aa6e412a441c368c2afa6294a9ca9d9",
+    "name": "Mobile",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core": "source",
+      "Light": "enabled",
+      "Dark": "enabled"
+    },
+    "group": "Platform"
   }
 ]

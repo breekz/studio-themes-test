@@ -3,6 +3,7 @@
     "Core",
     "Light",
     "Dark",
-    "Meta"
+    "Meta",
+    "core/default"
   ]
 }
