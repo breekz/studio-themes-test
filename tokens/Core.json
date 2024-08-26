@@ -306,5 +306,39 @@
   "DM Sans": {
     "value": "DM Sans",
     "type": "fontFamilies"
+  },
+  "Scale": {
+    "2": {
+      "value": "2",
+      "type": "sizing"
+    },
+    "4": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "8": {
+      "value": "8",
+      "type": "sizing"
+    },
+    "12": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "16": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "20": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "24": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "none": {
+      "value": "0",
+      "type": "sizing"
+    }
   }
 }

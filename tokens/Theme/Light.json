@@ -62,5 +62,77 @@
         "type": "color"
       }
     }
+  },
+  "icon": {
+    "primary": {
+      "value": "{Gray.500}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{Gray.800}",
+      "type": "color"
+    },
+    "accent": {
+      "value": "{Blue.500}",
+      "type": "color"
+    },
+    "inverted": {
+      "value": "{Gray.50}",
+      "type": "color"
+    },
+    "negative": {
+      "value": "{Red.600}",
+      "type": "color"
+    },
+    "warn": {
+      "value": "{Orange.500}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{Green.600}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "primary": {
+      "value": "{Gray.800}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{Gray.500}",
+      "type": "color"
+    },
+    "inverted": {
+      "value": "{Gray.50}",
+      "type": "color"
+    },
+    "placeholder": {
+      "value": "{Gray.300}",
+      "type": "color"
+    }
+  },
+  "Spacing": {
+    "2": {
+      "value": "{Scale.2}",
+      "type": "sizing"
+    },
+    "4": {
+      "value": "{Scale.4}",
+      "type": "sizing"
+    },
+    "8": {
+      "value": "{Scale.8}",
+      "type": "sizing"
+    },
+    "none": {
+      "value": "{Scale.none}",
+      "type": "sizing"
+    }
+  },
+  "Margin": {
+    "primary": {
+      "value": "{Scale.20}",
+      "type": "sizing"
+    }
   }
 }
