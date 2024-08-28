@@ -340,5 +340,16 @@
       "value": "0",
       "type": "sizing"
     }
+  },
+  "Gold": {
+    "50": {
+      "value": "#fff1bf",
+      "type": "color"
+    },
+    "500": {
+      "value": "#f3cb39",
+      "type": "color",
+      "description": "This gold is used for Brand Acq 3"
+    }
   }
 }
