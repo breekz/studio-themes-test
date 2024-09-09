@@ -351,5 +351,23 @@
       "type": "color",
       "description": "This gold is used for Brand Acq 3"
     }
+  },
+  "button": {
+    "secondary": {
+      "value": {
+        "color": "{Blue.500}",
+        "width": "{1}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "primary": {
+      "value": {
+        "color": "{Blue.500}",
+        "width": "{1}",
+        "style": "solid"
+      },
+      "type": "border"
+    }
   }
 }

@@ -5,8 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Theme/Light": "enabled",
-      "Brand/Gold": "disabled"
+      "Theme/Light": "enabled"
     },
     "group": "Theme"
   },
@@ -16,8 +15,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Theme/Dark": "enabled",
-      "Brand/Gold": "disabled"
+      "Theme/Dark": "enabled"
     },
     "group": "Theme"
   },
@@ -27,8 +25,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Core": "source",
-      "Brand/Incode": "enabled",
-      "Brand/Gold": "disabled"
+      "Brand/Incode": "enabled"
     },
     "group": "Brand"
   },
@@ -39,8 +36,7 @@
     "selectedTokenSets": {
       "Core": "source",
       "Theme/Light": "enabled",
-      "Brand/Meta": "enabled",
-      "Brand/Gold": "disabled"
+      "Brand/Meta": "enabled"
     },
     "group": "Brand"
   },
@@ -52,8 +48,7 @@
       "Core": "source",
       "Theme/Light": "enabled",
       "Theme/Dark": "enabled",
-      "Brand/Incode": "enabled",
-      "Brand/Gold": "disabled"
+      "Brand/Incode": "enabled"
     },
     "group": "Platform"
   }
